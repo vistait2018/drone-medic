@@ -1,0 +1,149 @@
+ {
+                "name": "GENTAMICIN",
+                "weight": 10,
+                "code": "MUSGEN301",
+                "imagePath": "",
+                "id": 28
+            },
+            {
+                "name": "PARACETAMO SYRUP",
+                "weight": 30,
+                "code": "MUSSYR45501",
+                "imagePath": "",
+                "id": 29
+            },
+            {
+                "name": "COD LIVER OIL",
+                "weight": 20,
+                "code": "MUSOIL233231",
+                "imagePath": "",
+                "id": 30
+            },
+            {
+                "name": "FOLIC ACID",
+                "weight": 15,
+                "code": "MUSFOL2334101",
+                "imagePath": "",
+                "id": 31
+            }
+        ],
+        "droneHistories": [],
+        "id": 1
+    },
+    {
+        "serialNumber": "TLMRQ124",
+        "droneCapacity": "MIDDLEWEIGHT",
+        "weight": 300,
+        "batteryCapacity": 100,
+        "droneState": "LOADING",
+        "medication": [
+            {
+                "name": "PARACETAMO SYRUP",
+                "weight": 280,
+                "code": "MUSSYR45501",
+                "imagePath": "",
+                "id": 25
+            },
+            {
+                "name": "COD LIVER OIL",
+                "weight": 180,
+                "code": "MUSOIL233231",
+                "imagePath": "",
+                "id": 26
+            },
+            {
+                "name": "FOLIC ACID",
+                "weight": 250,
+                "code": "MUSFOL2334101",
+                "imagePath": "",
+                "id": 27
+            }
+        ],
+        "droneHistories": [],
+        "id": 2
+    },
+    {
+        "serialNumber": "TLMRP55",
+        "droneCapacity": "CRUISERWEIGHT",
+        "weight": 350,
+        "batteryCapacity": 80,
+        "droneState": "DELIVERING",
+        "medication": [
+            {
+                "name": "PARACETAMO SYRUP",
+                "weight": 100,
+                "code": "MUSSYR45501",
+                "imagePath": "",
+                "id": 22
+            },
+            {
+                "name": "FOLIC ACID",
+                "weight": 50,
+                "code": "MUSFOL2334101",
+                "imagePath": "",
+                "id": 24
+            },
+            {
+                "name": "COD LIVER OIL",
+                "weight": 280,
+                "code": "MUSOIL233231",
+                "imagePath": "",
+                "id": 32
+            }
+        ],
+        "droneHistories": [],
+        "id": 3
+    },
+    {
+        "serialNumber": "TLMRPQ126777",
+        "droneCapacity": "CRUISERWEIGHT",
+        "weight": 350,
+        "batteryCapacity": 100,
+        "droneState": "IDLE",
+        "medication": [
+            {
+                "name": "PARACETAMO SYRUP",
+                "weight": 300,
+                "code": "MUSSYR45501",
+                "imagePath": "",
+                "id": 18
+            },
+            {
+                "name": "COD LIVER OIL",
+                "weight": 310,
+                "code": "MUSOIL233231",
+                "imagePath": "",
+                "id": 19
+            },
+            {
+                "name": "FOLIC ACID",
+                "weight": 280,
+                "code": "MUSFOL2334101",
+                "imagePath": "",
+                "id": 20
+            },
+            {
+                "name": "GENTAMICIN",
+                "weight": 300,
+                "code": "MUSGEN301",
+                "imagePath": "",
+                "id": 21
+            }
+        ],
+        "droneHistories": [],
+        "id": 4
+    },
+    {
+        "serialNumber": "TLMRPQ143555",
+        "droneCapacity": "HEAVYWEIGHT",
+        "weight": 450,
+        "batteryCapacity": 70,
+        "droneState": "DELIVERED",
+        "medication": [
+            {
+                "name": "GENTAMICIN",
+                "weight": 300,
+                "code": "MUSGEN301",
+                "imagePath": "",
+                "id": 17
+            }
